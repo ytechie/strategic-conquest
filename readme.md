@@ -1,0 +1,1 @@
+Just playing around with React to build a game board. I had to figure out how to get decent performance with a large board.
